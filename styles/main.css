@@ -1,0 +1,44 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+header {
+	background-color: #ffc61a;
+	padding-left: 20px;
+	height: 95px;
+	margin-bottom: 40px;
+}
+
+header div h1 {
+	font-weight: 700;
+}
+
+header div p {
+	position: relative;
+	bottom: 20px;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+.col-4 h3, .col-4 p {
+	padding-left: 19px;
+	line-height: 11px;
+}
+
+.col-4 h3 {
+	font-size: 18.5px;
+	padding-bottom: 0px;
+	padding-top: 6px;
+}
+
+.col-4 p {
+	padding-bottom: 15px;
+}
+
+.ray, .finn, .kylo, .poe, .chewbacca, .yoda {
+	border: 1px solid #e6e6e6;
+	margin-bottom: 18px;
+}
